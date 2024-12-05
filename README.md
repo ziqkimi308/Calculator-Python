@@ -1,6 +1,4 @@
-# Project: I Am Learning Python
-
-### Calculator
+# Calculator
 
 - A simple calculator program built in Python that supports basic arithmetic operations: addition, subtraction, multiplication, and division. The program runs interactively and allows users to chain calculations or start new ones.
 
