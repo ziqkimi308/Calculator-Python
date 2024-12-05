@@ -1,3 +1,14 @@
+"""
+********************************************************************************
+* Project Name:  Calculator
+* Description:   A simple calculator program built in Python that supports basic arithmetic operations
+* Author:        ziqkimi308
+* Created:       2024-12-05
+* Updated:       2024-12-05
+* Version:       1.0
+********************************************************************************
+"""
+
 from art import logo
 from replit import clear
 
